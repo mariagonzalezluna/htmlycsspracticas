@@ -1,3 +1,7 @@
+body {
+    background-color: red;
+}
+
 .toggle-container {
     --active-color: #1868e3;
     --inactive-color: #d3d3d6;
